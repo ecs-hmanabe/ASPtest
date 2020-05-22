@@ -48,4 +48,58 @@ Partial Public Class WebForm1
     '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
     '''</remarks>
     Protected WithEvents Label1 As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''TextBoxStudentID コントロール。
+    '''</summary>
+    '''<remarks>
+    '''自動生成されたフィールド。
+    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+    '''</remarks>
+    Protected WithEvents TextBoxStudentID As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
+    '''ButtonSerch コントロール。
+    '''</summary>
+    '''<remarks>
+    '''自動生成されたフィールド。
+    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+    '''</remarks>
+    Protected WithEvents ButtonSerch As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
+    '''TextBoxFirstName コントロール。
+    '''</summary>
+    '''<remarks>
+    '''自動生成されたフィールド。
+    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+    '''</remarks>
+    Protected WithEvents TextBoxFirstName As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
+    '''TextBoxLastName コントロール。
+    '''</summary>
+    '''<remarks>
+    '''自動生成されたフィールド。
+    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+    '''</remarks>
+    Protected WithEvents TextBoxLastName As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
+    '''TextBoxBirthday コントロール。
+    '''</summary>
+    '''<remarks>
+    '''自動生成されたフィールド。
+    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+    '''</remarks>
+    Protected WithEvents TextBoxBirthday As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
+    '''TextBoxGender コントロール。
+    '''</summary>
+    '''<remarks>
+    '''自動生成されたフィールド。
+    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+    '''</remarks>
+    Protected WithEvents TextBoxGender As Global.System.Web.UI.WebControls.TextBox
 End Class

@@ -15,7 +15,20 @@
             <asp:Button ID="Button1" runat="server" Text="Button" /><br />
             <br />
             <br />
-            <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+            <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label><br />
+
+
+            -----------------------
+            <br />
+			SQLSERVER<br />
+            <br />
+			StudentID
+			<asp:TextBox ID="TextBoxStudentID" runat="server"></asp:TextBox>
+			<asp:Button ID="ButtonSerch" runat="server" Text="検索" /><br />
+			FirstName<asp:TextBox ID="TextBoxFirstName" runat="server"></asp:TextBox><br />
+			LastName<asp:TextBox ID="TextBoxLastName" runat="server"></asp:TextBox><br />
+			Birthday<asp:TextBox ID="TextBoxBirthday" runat="server"></asp:TextBox><br />
+            Gender<asp:TextBox ID="TextBoxGender" runat="server"></asp:TextBox><br />
         </div>
     </form>
 </body>
